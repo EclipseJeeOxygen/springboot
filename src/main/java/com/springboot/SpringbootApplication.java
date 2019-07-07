@@ -1,4 +1,4 @@
-package com.learnspringboot.springboot;
+package com.springboot;
 
 import com.netty.NettyServer;
 import org.springframework.boot.SpringApplication;
