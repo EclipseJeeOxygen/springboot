@@ -18,8 +18,10 @@ public class NettyServer {
          * 参数的获取，业务的处理等工作均是由workergroup这个子事件循环组来完成，一个事件循环组一样
          * 可以完成所有的工作，但是Netty推荐的方式是使用两个事件循环组。
          */
-        EventLoopGroup bossGroup = new NioEventLoopGroup();  //创建父事件循环组
-        EventLoopGroup workerGroup = new NioEventLoopGroup(); //创建子类的事件循环组
+        //创建父事件循环组
+        EventLoopGroup bossGroup = new NioEventLoopGroup();
+        //创建子类的事件循环组
+        EventLoopGroup workerGroup = new NioEventLoopGroup();
 
         try {
             //创建启动服务器的对象
@@ -29,10 +31,12 @@ public class NettyServer {
              * group方法接收两个参数， 第一个为父时间循环组，第二个参数为子事件循环组
              */
             serverBootstrap.group(bossGroup, workerGroup)
-                    .channel(NioServerSocketChannel.class)  //bossGroup的通道，只是负责连接
-                    .childHandler(new NettyServerInitializer()); //workerGroup的处理器，
-
-            ChannelFuture channelFuture = serverBootstrap.bind(7777).sync();  //绑定端口
+                    //bossGroup的通道，只是负责连接
+                    .channel(NioServerSocketChannel.class)
+                    //workerGroup的处理器，
+                    .childHandler(new NettyServerInitializer());
+            //绑定端口
+            ChannelFuture channelFuture = serverBootstrap.bind(7777).sync();
             channelFuture.channel().closeFuture().sync();
 
         } finally {

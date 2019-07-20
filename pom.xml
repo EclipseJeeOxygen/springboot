@@ -8,6 +8,17 @@
     <version>0.0.1-SNAPSHOT</version>
     <modules>
     </modules>
+    <packaging>pom</packaging>
+
+    <name>springboot</name>
+    <description>springboot project</description>
+
+    <parent>
+        <groupId>org.springframework.boot</groupId>
+        <artifactId>spring-boot-starter-parent</artifactId>
+        <version>2.0.3.RELEASE</version>
+    </parent>
+
     <dependencies>
 
         <dependency>
@@ -27,11 +38,6 @@
             <artifactId>spring-boot-starter-security</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-transport</artifactId>
-            <version>4.1.36.Final</version>
-        </dependency>
         <dependency>
             <groupId>io.netty</groupId>
             <artifactId>netty-transport</artifactId>
@@ -65,18 +71,12 @@
             <version>5.1.7.RELEASE</version>
             <scope>test</scope>
         </dependency>
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.8</version>
+        </dependency>
     </dependencies>
-    <packaging>pom</packaging>
-
-    <name>springboot</name>
-    <description>springboot project</description>
-
-    <parent>
-        <groupId>org.springframework.boot</groupId>
-        <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.5.4.RELEASE</version>
-    </parent>
-
     <properties>
         <java.version>1.8</java.version>
         <jjwt.version>0.6.0</jjwt.version>
