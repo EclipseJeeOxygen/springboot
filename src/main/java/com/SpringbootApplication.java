@@ -1,10 +1,7 @@
-package com.springboot;
+package com;
 
-import com.netty.NettyServer;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.web.server.ConfigurableWebServerFactory;
-import org.springframework.boot.web.server.WebServerFactoryCustomizer;
 
 /**
  * @Author lujiaming

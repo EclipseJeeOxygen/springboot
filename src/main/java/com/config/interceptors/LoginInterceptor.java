@@ -1,6 +1,6 @@
 package com.config.interceptors;
 
-import com.config.entity.User;
+import com.entity.User;
 import org.springframework.lang.Nullable;
 import org.springframework.stereotype.Component;
 import org.springframework.web.servlet.HandlerInterceptor;
