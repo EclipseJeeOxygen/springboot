@@ -6,9 +6,7 @@
     <groupId>com.springboot</groupId>
     <artifactId>springboot</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <modules>
-    </modules>
-    <packaging>jar</packaging>
+    <packaging>pom</packaging>
 
     <name>springboot</name>
     <description>springboot project</description>
@@ -33,10 +31,6 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-actuator</artifactId>
         </dependency>
-<!--        <dependency>-->
-<!--            <groupId>org.springframework.boot</groupId>-->
-<!--            <artifactId>spring-boot-starter-security</artifactId>-->
-<!--        </dependency>-->
 
         <dependency>
             <groupId>io.netty</groupId>
