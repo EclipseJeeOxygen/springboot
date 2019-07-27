@@ -1,4 +1,4 @@
-package com.factorymode;
+package com.factory_mode;
 /**
  * @Author lujiaming
  * @Date 2019/7/27

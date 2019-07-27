@@ -1,8 +1,8 @@
-package com.decoratormode;
+package com.factory_mode;
 
 public class Rectangle implements ShapeInterface {
     @Override
     public void draw() {
-        System.out.println("Shape: Rectangle");
+        System.out.println("Inside Rectangle::draw() method.");
     }
 }

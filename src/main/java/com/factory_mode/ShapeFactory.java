@@ -1,4 +1,4 @@
-package com.factorymode;
+package com.factory_mode;
 
 
 /**

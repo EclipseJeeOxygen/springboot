@@ -1,4 +1,4 @@
-package com.decoratormode;
+package com.decorator_mode;
 /**
  * @Author lujiaming
  * @Date 2019/7/27

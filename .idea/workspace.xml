@@ -2,13 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4cf7d5c-55ac-4293-bd9b-51b8e38e22fe" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/factorymode/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/factorymode/FactoryPatternDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/factorymode/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/factorymode/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/factorymode/ShapeInterface.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/factorymode/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/AdapterPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/AdvancedMediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/AudioPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaAdapter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaPlayer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/Mp4Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/adapter_mode/VlcPlayer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decoratormode/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator_mode/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decoratormode/DecoratorPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator_mode/DecoratorPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decoratormode/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator_mode/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decoratormode/RedShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator_mode/RedShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decoratormode/ShapeDecorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator_mode/ShapeDecorator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/decoratormode/ShapeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/decorator_mode/ShapeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factorymode/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory_mode/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factorymode/FactoryPatternDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory_mode/FactoryPatternDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factorymode/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory_mode/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factorymode/ShapeFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory_mode/ShapeFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factorymode/ShapeInterface.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory_mode/ShapeInterface.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/factorymode/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/factory_mode/Square.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decoratormode/Circle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decoratormode/DecoratorPatternDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decoratormode/Rectangle.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decoratormode/RedShapeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decoratormode/ShapeDecorator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/decoratormode/ShapeInterface.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,55 +46,72 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/Rectangle.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="66">
+              <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/Square.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/AdvancedMediaPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/ShapeFactory.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/VlcPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+            <state relative-caret-position="198">
+              <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="5" />
+              <folding>
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#211#212#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/Mp4Player.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+              <folding>
+                <element signature="e#203#204#0" expanded="true" />
+                <element signature="e#276#277#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaAdapter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/FactoryPatternDemo.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/AudioPlayer.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+            <state relative-caret-position="273">
+              <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/Circle.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/AdapterPatternDemo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/ShapeInterface.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="132">
-              <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+            <state relative-caret-position="220">
+              <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
             </state>
           </provider>
         </entry>
@@ -85,6 +121,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -132,6 +169,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/factorymode/Rectangle.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/factorymode/Square.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/factorymode/FactoryPatternDemo.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/AdvancedMediaPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/VlcPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/Mp4Player.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaAdapter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/AudioPlayer.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/adapter_mode/AdapterPatternDemo.java" />
       </list>
     </option>
   </component>
@@ -218,24 +262,6 @@
             </path>
             <path>
               <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="decoratormode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="springboot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="factorymode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="springboot" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
@@ -277,6 +303,7 @@
       <recent name="D:\GitProject\springboot\src\main\resource" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.adapter_mode" />
       <recent name="com.factorymode" />
       <recent name="com.decoratormode" />
     </key>
@@ -299,13 +326,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.FactoryPatternDemo">
-    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.decoratormode.DecoratorPatternDemo" />
+  <component name="RunManager" selected="Application.AdapterPatternDemo">
+    <configuration name="AdapterPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.adapter_mode.AdapterPatternDemo" />
       <module name="springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.decoratormode.*" />
+          <option name="PATTERN" value="com.adapter_mode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DecoratorPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.decorator_mode.DecoratorPatternDemo" />
+      <module name="springboot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.decorator_mode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -314,11 +354,11 @@
       </method>
     </configuration>
     <configuration name="FactoryPatternDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.factorymode.FactoryPatternDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.factory_mode.FactoryPatternDemo" />
       <module name="springboot" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.factorymode.*" />
+          <option name="PATTERN" value="com.factory_mode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -341,6 +381,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AdapterPatternDemo" />
         <item itemvalue="Application.FactoryPatternDemo" />
         <item itemvalue="Application.DecoratorPatternDemo" />
         <item itemvalue="Spring Boot.SpringbootApplication" />
@@ -370,7 +411,7 @@
       <workItem from="1563679004727" duration="2366000" />
       <workItem from="1563681789187" duration="391000" />
       <workItem from="1563682406673" duration="10000" />
-      <workItem from="1564190779854" duration="1639000" />
+      <workItem from="1564190779854" duration="3086000" />
     </task>
     <task id="LOCAL-00001" summary="拦截器配置">
       <created>1563600302301</created>
@@ -407,11 +448,18 @@
       <option name="project" value="LOCAL" />
       <updated>1564191938922</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="工厂模式">
+      <created>1564192514615</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1564192514615</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23573000" />
+    <option name="totallyTimeSpent" value="25020000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -426,7 +474,7 @@
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21447721" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -436,7 +484,7 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32960895" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.08240224" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.30307263" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3840782" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -548,7 +596,8 @@
     <MESSAGE value="webSocket" />
     <MESSAGE value="版本更换" />
     <MESSAGE value="简单websocket和装饰器模式" />
-    <option name="LAST_COMMIT_MESSAGE" value="简单websocket和装饰器模式" />
+    <MESSAGE value="工厂模式" />
+    <option name="LAST_COMMIT_MESSAGE" value="工厂模式" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-starter-parent/1.5.4.RELEASE/spring-boot-starter-parent-1.5.4.RELEASE.pom">
@@ -708,14 +757,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/decoratormode/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/decorator_mode/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/decoratormode/ShapeDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/decorator_mode/ShapeDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-87">
           <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
@@ -728,7 +777,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/decoratormode/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/decorator_mode/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -739,49 +788,35 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/decoratormode/ShapeInterface.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/decorator_mode/ShapeInterface.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/ShapeInterface.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/Rectangle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/factory_mode/Rectangle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/Square.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/factory_mode/Square.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
           <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/ShapeFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
-          <caret line="20" column="26" lean-forward="true" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/decoratormode/DecoratorPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/decorator_mode/DecoratorPatternDemo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/decoratormode/RedShapeDecorator.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/decorator_mode/RedShapeDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="30" lean-forward="true" selection-start-line="10" selection-start-column="30" selection-end-line="10" selection-end-column="30" />
@@ -794,17 +829,88 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/Circle.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/factory_mode/Circle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="24" lean-forward="true" selection-start-column="24" selection-end-column="24" />
+          <caret column="24" selection-start-column="24" selection-end-column="24" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/factorymode/FactoryPatternDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/factory_mode/FactoryPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/factory_mode/ShapeInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/factory_mode/ShapeFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="56" selection-start-line="3" selection-start-column="56" selection-end-line="3" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/VlcPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" selection-start-line="9" selection-end-line="10" selection-end-column="5" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/AdapterPatternDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/Mp4Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
-          <caret line="4" column="20" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+          <folding>
+            <element signature="e#203#204#0" expanded="true" />
+            <element signature="e#276#277#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/AdvancedMediaPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/MediaAdapter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" column="35" lean-forward="true" selection-start-line="17" selection-start-column="35" selection-end-line="17" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/adapter_mode/AudioPlayer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="9" lean-forward="true" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
         </state>
       </provider>
     </entry>
