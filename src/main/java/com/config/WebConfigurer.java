@@ -38,6 +38,6 @@ public class WebConfigurer implements WebMvcConfigurer {
      */
     @Override
     public void addResourceHandlers(ResourceHandlerRegistry registry) {
-
+        registry.addResourceHandler("").addResourceLocations("");
     }
 }
